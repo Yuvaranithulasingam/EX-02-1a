@@ -1,4 +1,4 @@
-# EX-02-1a  PRINTING A STRING
+# EX-2(A)  PRINTING A STRING
 
 ## AIM:
 To write a C Program to print the string "WELCOME" n number of times.
