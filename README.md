@@ -1,7 +1,7 @@
 # EX-02-1a  PRINTING A STRING
 
 ## AIM:
-     To write a C Program to print the string "APPLE" n number of times.
+To write a C Program to print the string "WELCOME" n number of times.
 
 ## ALGORITHM:
 1. Start the program.
